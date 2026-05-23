@@ -1,4 +1,4 @@
-# Requirements for AlphaFold2 Protein Structure Prediction Assignment
+# Requirements for AlphaFold2 Protein Structure Prediction
 # These are installed automatically inside the Colab notebook.
 # For local reference only.
 
