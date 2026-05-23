@@ -1,10 +1,4 @@
 # 🧬 Protein Structure Prediction & Analysis using AlphaFold2
-
-**Course Assignment — Bioinformatics**  
-**Student:** Muhammad Uzair Khan  
-**Instructor:** Tanveer Ahmad  
-**Date:** April 2026
-
 ---
 
 ## Overview
@@ -139,7 +133,7 @@ Measures confidence in the **relative position** of every pair of residues. Dark
 2. Mirdita, M. et al. ColabFold: Making protein folding accessible to all. *Nature Methods* **19**, 679–682 (2022).
 3. Abramson, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* **630**, 493–500 (2024).
 4. RCSB PDB entry 1REX. https://www.rcsb.org/structure/1REX
-5. Lecture slides: *AlphaFold 2.0: Theory, Architecture and Scope* — Instructor: Tanveer Ahmad (April 2026).
+
 
 ---
 
@@ -150,5 +144,3 @@ Measures confidence in the **relative position** of every pair of residues. Dark
 - KOBIC & Söding Lab for MMseqs2 server resources
 
 ---
-
-*Assignment submitted for the Bioinformatics course — Department of Bioinformatics & Computational Biology*
