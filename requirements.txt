@@ -1,0 +1,21 @@
+# Requirements for AlphaFold2 Protein Structure Prediction Assignment
+# These are installed automatically inside the Colab notebook.
+# For local reference only.
+
+# ColabFold (includes AlphaFold2)
+colabfold[alphafold-minus-jax] @ git+https://github.com/sokrypton/ColabFold
+
+# JAX with CUDA support (GPU required)
+jax[cuda12_pip]
+
+# Scientific computing
+numpy>=1.24
+matplotlib>=3.7
+biopython>=1.81
+
+# Structure visualization
+py3Dmol>=2.0
+
+# Notebook environment
+ipython>=8.0
+jupyter>=1.0
