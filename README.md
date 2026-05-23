@@ -50,7 +50,7 @@ protein-structure-prediction/
 
 1. Click the badge below to open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/protein-structure-prediction/blob/main/AlphaFold2_Lysozyme_1REX_Assignment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hamza-2353/protein-structure-prediction/blob/main/notebook/AlphaFold2_Lysozyme_1REX_Assignment.ipynb)
 
 2. Go to **Runtime → Change runtime type → GPU (T4)**
 3. Go to **Runtime → Run all**
