@@ -1,10 +1,8 @@
-# Assignment Report: Protein Structure Prediction & Analysis
+#Report: Protein Structure Prediction & Analysis
 
-**Student:** Muhammad Uzair Khan  
-**Instructor:** Tanveer Ahmad  
 **Target Protein:** Human Lysozyme C — PDB: 1REX  
 **Tool:** AlphaFold2 via ColabFold (MMseqs2)  
-**Date:** April 2026
+
 
 ---
 
@@ -198,4 +196,4 @@ This assignment demonstrates how AlphaFold2 has transformed structural biology �
 3. Abramson, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. *Nature* **630**, 493–500 (2024).
 4. Moult, J. et al. CASP14 — Critical assessment of protein structure prediction. *Proteins* **89**, 1607–1617 (2021).
 5. RCSB PDB entry 1REX — Human Lysozyme C. https://www.rcsb.org/structure/1REX
-6. Lecture slides: *AlphaFold 2.0: Theory, Architecture and Scope* — Instructor: Tanveer Ahmad (April 2026).
+
